@@ -5,3 +5,14 @@
 # Ignore course introduction materials
 00_Course Introduction/
 
+
+# virtual environment
+venv/
+
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+
+
