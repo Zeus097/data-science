@@ -1,2 +1,7 @@
 # Ignore all PDF files
 *.pdf
+
+
+# Ignore course introduction materials
+00_Course Introduction/
+
