@@ -57,3 +57,4 @@ weather_data = weather_data[
     ["id", "date", "tmin", "tmax"]
 ]
 # print(weather_data.head())
+
