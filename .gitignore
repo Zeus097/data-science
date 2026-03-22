@@ -15,4 +15,9 @@ __pycache__/
 *.py[cod]
 
 
+# Excluded files with data cheat sheets
+data_cheat_1.png
+data_cheat_2.png
+data_cheat_3.png
+
 
