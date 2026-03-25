@@ -21,3 +21,5 @@ data_cheat_2.png
 data_cheat_3.png
 
 
+# Excluded .csv files to prevent accidental commits of large datasets
+*.csv
