@@ -9,7 +9,7 @@ import pandas as pd
 #         ▪ Remove all missing values
 
 
-tb_data = pd.read_csv("01_Working_with_Data/tb.csv")
+tb_data = pd.read_csv("01-A_Working_with_Data/tb.csv")
 
 def process_age_group(age_group):
     ages = {

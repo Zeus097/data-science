@@ -1,7 +1,7 @@
 import pandas as pd
 
 
-pew_data = pd.read_csv("01_Working_with_Data/pew.csv")
+pew_data = pd.read_csv("01-A_Working_with_Data/pew.csv")
 
 # less_than_10k = pew_data.pivot_table(index="religion", values="<$10k")
 

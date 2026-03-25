@@ -6,7 +6,7 @@ import pandas as pd
 #   ▪ Pivot the tmin and tmax columns
 
 
-weather_data = pd.read_csv("01_Working_with_Data/weather.csv")
+weather_data = pd.read_csv("01-A_Working_with_Data/weather.csv")
 # print(weather_data.head()) # get first 5 rows of the data
 
 weather_data = weather_data.melt(
